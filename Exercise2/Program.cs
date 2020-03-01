@@ -15,8 +15,8 @@ namespace Exercise2
            int a = Convert.ToInt32(ReadLine());
             WriteLine("Please Enter a value for B");
            int b = Convert.ToInt32(ReadLine());
-            int sum = a + b;
-                WriteLine("The result is: "+ sum);
+           int sum = a + b;
+            WriteLine("The result is: "+ sum);
             ReadKey();
 
         }
